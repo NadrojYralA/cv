@@ -3,22 +3,17 @@
 }
 
 #header{
-    background-color:rgb(10,20,30);
-    border: 2px solid rgb(10,20,30);
-    color:gold;
-}
-#header{
     display:flex;
     align-items : center;
     justify-content : center;
-}
-
-#header{
+    background-color:rgb(10,20,30);
+    border: 2px solid rgb(10,20,30);
+    color:gold;
     padding-top: 0px;
     padding-left: 10px;
     margin-bottom: 2rem;
-
 }
+
 
 #download {
     background-color: rgb(10,20,30);
