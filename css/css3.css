@@ -21,27 +21,14 @@
 }
 
 #download {
-    background-color: black;
-    border-color: black;
+    background-color: rgb(10,20,30);
+    border-color: rgb(10,20,30);
     color: gold;
     text-shadow: none;
     font-size: smaller;
     text-decoration: none;
     /* space */
 }
-
-#download:hover, #download:hover {
-    background-color: darkred !important;
-    box-shadow: none !important;
-    border-color: darkred;
-
-}
-
-#download:focus, #download:focus {
-    background-color: darkred !important;
-    box-shadow: none !important;
-    border-color: darkred;
- }
 
 
 body{
