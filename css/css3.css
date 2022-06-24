@@ -20,10 +20,32 @@
 
 }
 
+#download {
+    background-color: black;
+    border-color: black;
+    color: gold;
+    text-shadow: none;
+    font-size: smaller;
+    text-decoration: none;
+}
+
+#download:hover, #download:hover {
+    background-color: darkred !important;
+    box-shadow: none !important;
+    border-color: darkred;
+}
+
+#download:focus, #download:focus {
+    background-color: darkred !important;
+    box-shadow: none !important;
+    border-color: darkred;
+ }
+
+
 body{
     background-image: url('https://wallpapercave.com/wp/wp6316198.jpg');
     background-size: cover;
-    
+
 }
 
 
