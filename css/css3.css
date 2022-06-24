@@ -27,13 +27,14 @@
     text-shadow: none;
     font-size: smaller;
     text-decoration: none;
-    
+    /* space */
 }
 
 #download:hover, #download:hover {
     background-color: darkred !important;
     box-shadow: none !important;
     border-color: darkred;
+
 }
 
 #download:focus, #download:focus {
